@@ -1,0 +1,1 @@
+[27-Mar-2020 12:33:08 UTC] PHP Warning:  preg_replace(): Compilation failed: invalid range in character class at offset 19 in /home/peoplest/public_html/thesoulharmonic.com/wp-content/themes/Divi/includes/builder/class-et-builder-element.php on line 7026
