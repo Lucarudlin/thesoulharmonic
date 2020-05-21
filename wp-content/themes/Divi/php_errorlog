@@ -1,0 +1,4 @@
+[09-Dec-2019 13:35:15 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/peoplest/public_html/thesoulharmonic.com/wp-content/themes/Divi/functions.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/peoplest/public_html/thesoulharmonic.com/wp-content/themes/Divi/functions.php on line 101

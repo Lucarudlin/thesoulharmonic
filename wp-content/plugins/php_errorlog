@@ -1,0 +1,40 @@
+[03-Feb-2018 18:57:43 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php on line 60
+[07-Feb-2018 08:22:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php on line 60
+[13-Feb-2018 00:03:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php on line 60
+[11-Mar-2018 17:46:31 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php on line 60
+[08-Jun-2018 04:48:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php on line 60
+[08-Jun-2018 04:49:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php on line 60
+[09-Nov-2018 03:35:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php on line 60
+[09-Nov-2018 03:35:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php on line 60
+[30-Jan-2019 11:41:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php on line 60
+[05-Apr-2019 10:16:15 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/peoplest/public_html/thesoulharmonic.com/wp-content/plugins/hello.php on line 60

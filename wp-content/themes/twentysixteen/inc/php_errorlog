@@ -1,0 +1,8 @@
+[30-Oct-2018 14:52:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_admin() in /home/peoplest/public_html/thesoulharmonic.com/wp-content/themes/twentysixteen/inc/template-tags.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/peoplest/public_html/thesoulharmonic.com/wp-content/themes/twentysixteen/inc/template-tags.php on line 178
+[03-Nov-2018 14:05:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/peoplest/public_html/thesoulharmonic.com/wp-content/themes/twentysixteen/inc/customizer.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/peoplest/public_html/thesoulharmonic.com/wp-content/themes/twentysixteen/inc/customizer.php on line 69

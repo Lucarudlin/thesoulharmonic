@@ -1,0 +1,4 @@
+[09-Dec-2019 13:34:17 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/peoplest/public_html/thesoulharmonic.com/wp-content/themes/twentytwenty/functions.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/peoplest/public_html/thesoulharmonic.com/wp-content/themes/twentytwenty/functions.php on line 144
